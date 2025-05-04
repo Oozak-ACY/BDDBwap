@@ -1,0 +1,13 @@
+# Pour Cédric
+
+## Explication
+
+J'ai eu des difficultés à utiliser le package web helper que tu utilises dans mon cours
+
+Et j'ai eu des problèmes d'instaciation de ma variable driver si j'utilisais pas le package justement
+
+J'ai donc essayé de faire un mix des 2 avec mon dossier Classe et Hooks où j'y ai renseigné seulement l'initialisation de la Classe FirefoxDriver
+
+## Contraintes
+
+QUand j'effectue le test de changement de mdp mes autres tests ne marche plus car le mot de passe de login a été changé, a chaque fois il faut remettre le bon à la main 
